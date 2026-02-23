@@ -26,3 +26,4 @@ E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Newtonsoft.Json.
 E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.dll
 E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.pdb
 E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT_Music.Splash.resources

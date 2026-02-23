@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("YT Music")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("YouTube Music Player")>
+<Assembly: AssemblyCompany("Crossfire151.co.uk")>
 <Assembly: AssemblyProduct("YT Music")>
-<Assembly: AssemblyCopyright("Copyright ©  2026")>
+<Assembly: AssemblyCopyright("© Copyright | Developed by Crossfire151. This application is not affiliated with Google LLC. All logos and player content remain the property of Google LLC.")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

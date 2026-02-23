@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.SongName = New System.Windows.Forms.Label()
         Me.SongArtist = New System.Windows.Forms.Label()
         Me.SongTime = New System.Windows.Forms.Label()
@@ -35,6 +36,7 @@ Partial Class Form1
         Me.SongName.Size = New System.Drawing.Size(76, 13)
         Me.SongName.TabIndex = 0
         Me.SongName.Text = "%SongName%"
+        Me.SongName.Visible = False
         '
         'SongArtist
         '
@@ -44,6 +46,7 @@ Partial Class Form1
         Me.SongArtist.Size = New System.Drawing.Size(71, 13)
         Me.SongArtist.TabIndex = 1
         Me.SongArtist.Text = "%SongArtist%"
+        Me.SongArtist.Visible = False
         '
         'SongTime
         '
@@ -53,15 +56,17 @@ Partial Class Form1
         Me.SongTime.Size = New System.Drawing.Size(71, 13)
         Me.SongTime.TabIndex = 2
         Me.SongTime.Text = "%SongTime%"
+        Me.SongTime.Visible = False
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(1335, 754)
         Me.Controls.Add(Me.SongArtist)
         Me.Controls.Add(Me.SongName)
         Me.Controls.Add(Me.SongTime)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
