@@ -1,0 +1,28 @@
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\YT Music.exe.config
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\YT Music.exe
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\YT Music.pdb
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\YT Music.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.vbproj.AssemblyReference.cache
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT_Music.Resources.resources
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.vbproj.GenerateResource.cache
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.vbproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.vbproj.Up2Date
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.exe
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.pdb
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT Music.exe.config
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\obj\Debug\YT_Music.Form1.resources
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.dll
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.pdb
+E:\Documents\Visual Studio\Projects\YT Music\YT Music\bin\Debug\DiscordRPC.xml
