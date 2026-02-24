@@ -1,6 +1,7 @@
 # YTMusic
 YouTube Music Player for Windows with DiscordRPC implementation
 
+- Testing app, production maybe pulled at anytime.
 
 Preview of Player:
 <img width="1340" height="789" alt="{8351E0DB-CE60-449C-BB21-68CC2246E5B3}" src="https://github.com/user-attachments/assets/42db0b27-dc57-4ef3-ba76-6043edba503a" />
