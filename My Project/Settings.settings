@@ -8,14 +8,5 @@
     <Setting Name="SizeY" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
-    <Setting Name="ListenAlongEnabled" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
-    </Setting>
-    <Setting Name="RpcEnabled" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
-    </Setting>
-    <Setting Name="DiscordAppId" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">1475597678342574110</Value>
-    </Setting>
   </Settings>
 </SettingsFile>

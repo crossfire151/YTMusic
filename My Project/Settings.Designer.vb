@@ -77,39 +77,6 @@ Namespace My
                 Me("SizeY") = value
             End Set
         End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
-        Public Property ListenAlongEnabled() As Boolean
-            Get
-                Return CType(Me("ListenAlongEnabled"),Boolean)
-            End Get
-            Set
-                Me("ListenAlongEnabled") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
-        Public Property RpcEnabled() As Boolean
-            Get
-                Return CType(Me("RpcEnabled"),Boolean)
-            End Get
-            Set
-                Me("RpcEnabled") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("1475597678342574110")>  _
-        Public ReadOnly Property DiscordAppId() As String
-            Get
-                Return CType(Me("DiscordAppId"),String)
-            End Get
-        End Property
     End Class
 End Namespace
 
